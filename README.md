@@ -22,9 +22,8 @@ You need to have in tracking objects are as follows
      Extract .zip file then move the files in these folders to CUDA.
 
               <pre> bin ==> C:/Programe files/Nvidia GPU Computing Toolkit/CUDA/v11.7/bin
-lib ==> C:/Programe files/Nvidia GPU Computing Toolkit/CUDA/v11.7/lib
-include ==> C:/Programe files/Nvidia GPU Computing Toolkit/CUDA/v11.7/include
-               </pre>
+                    lib ==> C:/Programe files/Nvidia GPU Computing Toolkit/CUDA/v11.7/lib
+                    include ==> C:/Programe files/Nvidia GPU Computing Toolkit/CUDA/v11.7/include</pre>
 
 
    - 123
