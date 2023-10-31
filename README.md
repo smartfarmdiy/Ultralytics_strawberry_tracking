@@ -28,5 +28,6 @@ You need to have in tracking objects are as follows
                     include ==> C:/Programe files/Nvidia GPU Computing Toolkit/CUDA/v11.7/include
               </pre>
 
+
    ## Coding stage
    **1. Import Custom Model** I have a model for you. It is in the "Custom Model" folder
