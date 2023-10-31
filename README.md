@@ -67,7 +67,13 @@ You need to have in tracking objects are as follows
      <pre>
         track_ids = results[0].boxes.id.int().cuda().tolist()
      </pre>
-   - 123
+   - Show output on display
+     <pre>
+        annotated_frame = results[0].plot()
+        cv2.imshow("Output Tracking", annotated_frame)
+        if cv2.waiKey(1) & 0xFF == ord("e"):
+           break
+     </pre>
    - 123
    - 123
    - 123
