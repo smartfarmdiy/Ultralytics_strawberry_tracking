@@ -29,3 +29,4 @@ You need to have in tracking objects are as follows
               </pre>
 
    ## Coding stage
+   **1. Import Custom Model** I have a model for you. It is in the "Custom Model" folder
