@@ -42,12 +42,15 @@ You need to have in tracking objects are as follows
       from ultralytics import YOLO
       import torch
       </pre>
-   - Import Custom Model
+   - Import Custom Model and Used GPU
      <pre>
       model_path = 'include model path'
       model = YOLO(model_path).to(torch.device(0))
      </pre>
-   - 12
+   - Open Usb Camera (0 is port of usb camera)
+     <pre>
+      cap = cv2.VideoCapTure(0)
+     </pre>
    - 123
    - 123
    - 123
