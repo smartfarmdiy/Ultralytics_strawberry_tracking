@@ -9,6 +9,11 @@ You need to have in tracking objects are as follows
    - Python>=3.9 (Download and Install from [Python](https://www.python.org/downloads/))
    - [Opencv](https://opencv.org/) (use command prompt)
            <pre> pip install opencv-contrib-python </pre>
-   - 123
+   - [Pytorch](https://pytorch.org/)
+   - [Ultralytics](https://www.ultralytics.com/)(use command prompt)
+           <pre> pip install ultralytics </pre>
+   - Nvidia GPU Computing Toolkit ([cudav11.7](https://developer.nvidia.com/cuda-11-7-0-download-archive), [cudnn](https://developer.nvidia.com/cudnn))
+     ![image](https://github.com/smartfarmdiy/Ultralytics_strawberry_tracking/assets/63504401/b7538474-f88b-47cd-b729-d170c098be4e)
+
    - 123
    - 123
