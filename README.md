@@ -76,8 +76,13 @@ You need to have in tracking objects are as follows
      </pre>
 
    ## Safety precautions
+   
    **1. Follow the Nvidia Jetson Nano instruction manual.**
+   
    **2. Avoid exposing the device to static electricity.**
+   
    **3. Should install Package and Library versions that are compatible to reduce error_version problems.**
+   
    **4. Administrator rights should be used to perform various actions to reduce permission_error problems.**
+   
 
