@@ -51,6 +51,24 @@ You need to have in tracking objects are as follows
      <pre>
       cap = cv2.VideoCapTure(0)
      </pre>
+   - Use Ultralytics Tracking
+     <pre>
+      results = model.track(source=frame, persist=True, iou=0.6, conf=0.4)
+     </pre>
+     You can get data (bounging boxes, object_ids, cofidence, class_ids)
+     <pre>
+         track_data = results[0].boxes.data.int().cuda().tolist()
+     </pre>
+     or (bounging boxes)
+     <pre>
+        track_xyxy = results[0].boxes.xyxy.int().cuda().tolist()
+     </pre>
+     or (object_ids)
+     <pre>
+        track_ids = results[0].boxes.id.int().cuda().tolist()
+     </pre>
+   - 123
+   - 123
    - 123
    - 123
    - 123
