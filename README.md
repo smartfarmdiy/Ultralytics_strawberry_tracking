@@ -17,5 +17,15 @@ You need to have in tracking objects are as follows
      
      ![image](https://github.com/smartfarmdiy/Ultralytics_strawberry_tracking/assets/63504401/b7538474-f88b-47cd-b729-d170c098be4e)
 
+     ![image](https://github.com/smartfarmdiy/Ultralytics_strawberry_tracking/assets/63504401/728854b7-4f0e-4052-8abd-b5d0755cf258)
+
+     Extract .zip file then move the files in these folders to CUDA.
+
+              <pre> bin ==> C:/Programe files/Nvidia GPU Computing Toolkit/CUDA/v11.7/bin
+lib ==> C:/Programe files/Nvidia GPU Computing Toolkit/CUDA/v11.7/lib
+include ==> C:/Programe files/Nvidia GPU Computing Toolkit/CUDA/v11.7/include
+               </pre>
+
+
    - 123
    - 123
