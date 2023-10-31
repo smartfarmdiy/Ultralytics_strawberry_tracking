@@ -37,7 +37,8 @@ You need to have in tracking objects are as follows
    **2. Use Model for Tracking** It is an implementation of the model for multi-object tracking. With the Ultralytics tracker, follow these steps:
 
    - import needed packages
-        <pre> import cv2
+        <pre> 
+              import cv2
               from ultralytics import YOLO
               import torch
         </pre>
