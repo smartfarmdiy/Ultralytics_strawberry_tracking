@@ -4,6 +4,7 @@ enjoy !!!
 
 ## Preparation stage
 You need to have in tracking objects are as follows
+
 **1. Visual Studio Code** (Download and Install from [VSCODE](https://code.visualstudio.com/))
 **2. Package and Library**
    - Python>=3.9 (Download and Install from [Python](https://www.python.org/downloads/))
