@@ -38,8 +38,8 @@ You need to have in tracking objects are as follows
 
    - import needed packages
         <pre> import cv2
-           import ultralytics
-           import torch
+              from ultralytics import YOLO
+              import torch
         </pre>
    - 13
    - 12
