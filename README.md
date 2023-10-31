@@ -31,3 +31,19 @@ You need to have in tracking objects are as follows
 
    ## Coding stage
    **1. Import Custom Model** I have a model for you. It is in the "Custom Model" folder
+   
+   ![image](https://github.com/smartfarmdiy/Ultralytics_strawberry_tracking/assets/63504401/23af9133-22e8-4b88-bc73-c88cfcbbf0f7)
+
+   **2. Use Model for Tracking** It is an implementation of the model for multi-object tracking. With the Ultralytics tracker, follow these steps:
+
+   - import needed packages
+        <pre> import cv2
+           import ultralytics
+           import torch
+        </pre>
+   - 13
+   - 12
+   - 123
+   - 123
+   - 123
+
